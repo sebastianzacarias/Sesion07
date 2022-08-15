@@ -1,3 +1,6 @@
 # Codigo de R
-iris_database <- iris
+iris.db <- iris
 head(iris)
+
+summary(iris.db)
+
